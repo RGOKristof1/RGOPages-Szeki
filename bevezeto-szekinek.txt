@@ -1,0 +1,4 @@
+a mappa amihez hozza kototted a github ot az mar a weboldalad rootja a benne talalhato index.html az a main oldal(szeki.rgopages.hu/)
+ha aloldalt akarsz csinalni hozz letre egy mappat az aloldal nevevel es abba rakj egy index.html-t(szeki.rgopages.hu/pelda)
+en a Live Server extension-t hasznalom, ami amikor egy html file ba vagy kirak egy gombot jobb felulre az editorban amivel eloben tudod kovetni a valtoztatast amit csinaltal
+ha csinaltal barmilyen valtoztatast akkor ugy tudod menteni ha a Source Control taben kivalsztod a Changes-nel azokat amiket menteni szeretnel adsz egy nevet es commitolsz
